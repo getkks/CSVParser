@@ -1,0 +1,4 @@
+[*.fs]
+fsharp_space_before_member=true
+fsharp_newline_between_type_definition_and_members=true
+fsharp_align_function_signature_to_indentation=false
